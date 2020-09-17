@@ -1,0 +1,2 @@
+# anthos-config-demo
+configmanager
